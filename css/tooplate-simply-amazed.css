@@ -4,7 +4,7 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
-  color: #6c757d;
+  color: #DBCC56;
   line-height: 1.5;
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
@@ -620,12 +620,12 @@ textarea.form-control {
 .bg-blue-transparent { background-color: rgb(102 153 204 / 0.8); }
 
 .banner-section .logo-fa {  
-  color: #fff;
+  color: #DBCC56;
   max-width: 400px;
-  margin-left: 5px;
+  margin-left: 20px;
   padding-top: 43px;
   padding-bottom: 35px;
-  font-size: 32px;
+  font-size: 70px;
   margin-bottom: 60px;
 }
 
@@ -656,7 +656,7 @@ textarea.form-control {
 }
 
 .banner-section .simple {
-  color: #fff;
+  color: #231B85;
   display: inline-block;
   margin: auto;
   margin-left: 97px;
@@ -724,7 +724,7 @@ textarea.form-control {
   width: 119px;
   height: 119px;
   display: block;
-  border: 1px solid #fff;
+  border: 1px solid #98B0D4;
   border-radius: 100%;
   color: #fff;
   font-size: 32px;
@@ -746,7 +746,7 @@ textarea.form-control {
 }
 
 .work-section .item h3 {
-  color: #ffccff;
+  color: #DBCC56;
   text-transform: uppercase;
   font-size: 27px;
   letter-spacing: -1px;
@@ -940,7 +940,7 @@ figure.effect-julia:hover p {
   .gallery-section .title { margin-bottom: 40px; }
 }
 
-.gallery-section .title h2 { color: #006699; }
+.gallery-section .title h2 { color: #FFCE3B; }
 .gallery-section .slick-list { margin-bottom: 40px; }
 
 .gallery-section .item {
@@ -1122,4 +1122,9 @@ figure.effect-julia:hover p {
   .contact-form, .contact-details { width: 100%; }
 
   .contact-details { margin-bottom: 50px!important; }
+}
+.test {
+	height: 1%;
+	width: 1%;
+	top: 40%;
 }
